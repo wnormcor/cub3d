@@ -6,6 +6,8 @@ My first RayCaster with miniLibX
 
 This project is inspired by the world-famous eponymous 90’s game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JjhiBYCqvQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ```
 
 The constraints are as follows:
@@ -94,6 +96,12 @@ C 225,30,0
 
 ```bash
 make
+```
+
+## Start
+
+```bash
+./cub3D maps/doom.cub
 ```
 
 
