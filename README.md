@@ -4,11 +4,7 @@ My first RayCaster with miniLibX
 
 ### Screen/Video
 
-![screen](screen.png)
-
-[![game](http://img.youtube.com/vi/JjhiBYCqvQs/1.jpg)](http://www.youtube.com/watch?v=JjhiBYCqvQs "Video Title")
-
-https://www.youtube.com/embed/JjhiBYCqvQs
+[![screen](screen.png)](http://www.youtube.com/watch?v=JjhiBYCqvQs "Doom Cub3D")
 
 ## Summary
 
